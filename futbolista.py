@@ -1,4 +1,3 @@
-from tkinter.messagebox import RETRY
 from deportista import Deportista
 from persona import Persona
 
